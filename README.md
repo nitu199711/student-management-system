@@ -39,4 +39,17 @@ A lightweight static Student Management System built with HTML, Bootstrap and va
 - Responsive layout; sidebar hides on small screens.
 
 <img width="1910" height="982" alt="image" src="https://github.com/user-attachments/assets/77e9de98-890e-4753-b42b-4f486bc10e46" />
+<img width="687" height="252" alt="image" src="https://github.com/user-attachments/assets/e9f04b0c-94f1-40ca-8515-6a263c761c5a" />
+<img width="1907" height="937" alt="image" src="https://github.com/user-attachments/assets/d22fe75c-e06b-437b-b2b4-413d84b94eac" />
+<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/a03d3c88-e6b5-430b-9a3c-0bfecbca18fb" />
+<img width="1857" height="877" alt="image" src="https://github.com/user-attachments/assets/2585d619-1045-40dc-b470-0478eae87c5e" />
+
+<img width="1897" height="957" alt="image" src="https://github.com/user-attachments/assets/086336de-58e1-4686-9a57-3b20c7fb6064" />
+
+<img width="1888" height="906" alt="image" src="https://github.com/user-attachments/assets/65b17170-a708-4246-9cee-df6510f22a71" />
+
+
+
+
+
 
