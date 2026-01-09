@@ -37,3 +37,6 @@ A lightweight static Student Management System built with HTML, Bootstrap and va
 - Uses Bootstrap and Font Awesome via CDN.
 - Shared styles in `css/style.css`; pages include small layout-specific styles.
 - Responsive layout; sidebar hides on small screens.
+
+<img width="1910" height="982" alt="image" src="https://github.com/user-attachments/assets/77e9de98-890e-4753-b42b-4f486bc10e46" />
+
